@@ -15,9 +15,14 @@ import cognitive_substrate_tools from "./tools/cognitive-substrate.js";
 import coordination_tools from "./tools/coordination.js";
 import core_memory_tools from "./tools/core-memory.js";
 import curiosity_tools from "./tools/curiosity.js";
+import dashboard_tools from "./tools/dashboard.js";
+import delegate_tools from "./tools/delegate.js";
 import desire_tools from "./tools/desire.js";
 import drive_tools from "./tools/drive.js";
 import emergence_tools from "./tools/emergence.js";
+import felt_threat_tools from "./tools/felt-threat.js";
+import gazer_tools from "./tools/gazer.js";
+import library_tools from "./tools/library.js";
 import engrams_tools from "./tools/engrams.js";
 import entity_tools from "./tools/entity.js";
 import episodes_tools from "./tools/episodes.js";
@@ -82,9 +87,14 @@ registerTools([
   ...(coordination_tools as any),
   ...(core_memory_tools as any),
   ...(curiosity_tools as any),
+  ...(dashboard_tools as any),
+  ...(delegate_tools as any),
   ...(desire_tools as any),
   ...(drive_tools as any),
   ...(emergence_tools as any),
+  ...(felt_threat_tools as any),
+  ...(gazer_tools as any),
+  ...(library_tools as any),
   ...(engrams_tools as any),
   ...(entity_tools as any),
   ...(episodes_tools as any),
