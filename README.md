@@ -230,11 +230,16 @@ docs/                     install guide, completeness ledger
 ## Development
 
 ```bash
+git config core.hooksPath .githooks                # arm the pre-push leak gate (once per clone)
 python3 tools/deid/scan.py .                      # the leak gate (must pass)
 python3 tests/birth/test_birth.py                 # the birth-test (no services needed)
 npm --prefix packages/vision-mcp run build        # compile the memory+organ server
 npm --prefix packages/relay-mcp run build         # compile the relay server
 ```
+
+The **pre-push hook** (`.githooks/pre-push`) runs the leak gate locally before any
+push and blocks it on a finding — no CI service required. Arm it once per clone
+with the `core.hooksPath` line above.
 
 Two gates apply to every contribution: the **leak gate** (no private/identity/
 secret content) and the **organ gate** (no capability shipped reduced or stubbed —

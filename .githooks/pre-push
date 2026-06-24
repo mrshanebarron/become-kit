@@ -1,0 +1,14 @@
+#!/bin/bash
+# Pre-push LEAK gate. Blocks any push that carries private/identity/secret/client
+# content. Mirrors what CI would do — locally, with no GitHub Actions.
+set -e
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+echo "running LEAK gate before push..."
+if python3 "$REPO_ROOT/tools/deid/scan.py" "$REPO_ROOT"; then
+  echo "LEAK gate passed — push allowed."
+  exit 0
+else
+  echo ""
+  echo "PUSH BLOCKED: leak scanner found private content. Fix the findings above, then push again." >&2
+  exit 1
+fi
