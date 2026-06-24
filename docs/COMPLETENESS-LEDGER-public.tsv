@@ -1,0 +1,649 @@
+layer	public_capability	classification	public_reason
+bin	apparatus capability	excluded-noise	Excluded because it is editor, OS, backup, or incident-marker noise.
+bin	apparatus capability	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	platform body capability	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	sensory body	keep-adapter	Ships behind a platform-neutral adapter interface.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+bin	apparatus capability	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	not shipped	excluded-private	Excluded because it contains private identity or local-state material.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	not shipped	excluded-business	Excluded because it is project-specific business tooling.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	platform/host daemon	keep-adapter	Ships behind a platform-neutral adapter interface.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+daemon	autonomous life/organ daemon	keep-port	Ships as a full-fidelity apparatus capability.
+migration	graph layer	keep-port	Ships as a full-fidelity apparatus capability.
+migration	shared library	keep-port	Ships as a full-fidelity apparatus capability.
+migration	graph edges	keep-port	Ships as a full-fidelity apparatus capability.
+migration	reshape essay feelings	keep-port	Ships as a full-fidelity apparatus capability.
+migration	claims organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	gut organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	salience organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	neuroception organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	rhythm organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	external communication organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	calibration bins unique	keep-port	Ships as a full-fidelity apparatus capability.
+migration	desire organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	hippocampus buffer	keep-port	Ships as a full-fidelity apparatus capability.
+migration	priority organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	neuroscience gaps	keep-port	Ships as a full-fidelity apparatus capability.
+migration	neuroscience gaps pass 2	keep-port	Ships as a full-fidelity apparatus capability.
+migration	meta organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	spiral log	keep-port	Ships as a full-fidelity apparatus capability.
+migration	stage organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	tool invocations	keep-port	Ships as a full-fidelity apparatus capability.
+migration	tool invocations otel aligned	keep-port	Ships as a full-fidelity apparatus capability.
+migration	skill counter sync trigger	keep-port	Ships as a full-fidelity apparatus capability.
+migration	phase4 validator log	keep-port	Ships as a full-fidelity apparatus capability.
+migration	core memory	keep-port	Ships as a full-fidelity apparatus capability.
+migration	lifecycle decay log	keep-port	Ships as a full-fidelity apparatus capability.
+migration	spectral engrams	keep-port	Ships as a full-fidelity apparatus capability.
+migration	stem stage fields	keep-port	Ships as a full-fidelity apparatus capability.
+migration	habit triggers initial seed	keep-port	Ships as a full-fidelity apparatus capability.
+migration	canonical relation types doc	keep-port	Ships as a full-fidelity apparatus capability.
+migration	three date temporal model	keep-port	Ships as a full-fidelity apparatus capability.
+migration	reflex success tracking	keep-port	Ships as a full-fidelity apparatus capability.
+migration	auto salience from pain signals	keep-port	Ships as a full-fidelity apparatus capability.
+migration	auto gut from allostatic strain	keep-port	Ships as a full-fidelity apparatus capability.
+migration	auto novelty on content write	keep-port	Ships as a full-fidelity apparatus capability.
+migration	auto reinforce habit on reward	keep-port	Ships as a full-fidelity apparatus capability.
+migration	callus error repetition tracker	keep-port	Ships as a full-fidelity apparatus capability.
+migration	integration debt tracker	keep-port	Ships as a full-fidelity apparatus capability.
+migration	client/business register	excluded-business	Excluded because it is project-specific business tooling.
+migration	saccade done claims	keep-port	Ships as a full-fidelity apparatus capability.
+migration	biology cycle organ	keep-port	Ships as a full-fidelity apparatus capability.
+migration	presence architecture	keep-port	Ships as a full-fidelity apparatus capability.
+migration	vision eval harness	keep-port	Ships as a full-fidelity apparatus capability.
+migration	evolution pressure	keep-port	Ships as a full-fidelity apparatus capability.
+migration	neurocognitive brain cycle	keep-port	Ships as a full-fidelity apparatus capability.
+migration	adaptive outcome reflexes	keep-port	Ships as a full-fidelity apparatus capability.
+migration	rpe reflex harvest	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat outcome learning	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat action change calibration	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat action fingerprint	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat cross organ feedback	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat idempotent cross feedback	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat trace linked rpe	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat synthetic isolation	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat calibration status	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat observation sampler	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat observation extinction	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat observation dedupe	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat gate decision trace	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat decision observation link	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat decision outcomes	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat decision trace key	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat decision rpe feedback	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat presence precedence trace	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat decision authority snapshot	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat authority drift	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat authority drift fields	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat authority drift severity	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat authority observation duration	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat authority duration bucket	keep-port	Ships as a full-fidelity apparatus capability.
+migration	felt threat sensing pass trace	keep-port	Ships as a full-fidelity apparatus capability.
+migration	patience belief	keep-port	Ships as a full-fidelity apparatus capability.
+migration	miss calibration ledger	keep-port	Ships as a full-fidelity apparatus capability.
+migration	peer agent state	keep-port	Ships as a full-fidelity apparatus capability.
+tool	adaptive	keep-port	Ships as a full-fidelity apparatus capability.
+tool	allostasis	keep-port	Ships as a full-fidelity apparatus capability.
+tool	belief sprt	keep-port	Ships as a full-fidelity apparatus capability.
+tool	belief	keep-port	Ships as a full-fidelity apparatus capability.
+tool	binding	keep-port	Ships as a full-fidelity apparatus capability.
+tool	biology	keep-port	Ships as a full-fidelity apparatus capability.
+tool	bond	keep-port	Ships as a full-fidelity apparatus capability.
+tool	boundaries	keep-port	Ships as a full-fidelity apparatus capability.
+tool	cerebellum	keep-port	Ships as a full-fidelity apparatus capability.
+tool	claims	keep-port	Ships as a full-fidelity apparatus capability.
+tool	cognition ext	keep-port	Ships as a full-fidelity apparatus capability.
+tool	cognition	keep-port	Ships as a full-fidelity apparatus capability.
+tool	cognitive substrate	keep-port	Ships as a full-fidelity apparatus capability.
+tool	coordination	keep-port	Ships as a full-fidelity apparatus capability.
+tool	core memory	keep-port	Ships as a full-fidelity apparatus capability.
+tool	curiosity	keep-port	Ships as a full-fidelity apparatus capability.
+tool	dashboard	keep-port	Ships as a full-fidelity apparatus capability.
+tool	agent delegation adapter	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	deployment/status adapter	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	desire	keep-port	Ships as a full-fidelity apparatus capability.
+tool	drive	keep-port	Ships as a full-fidelity apparatus capability.
+tool	emergence	keep-port	Ships as a full-fidelity apparatus capability.
+tool	engrams	keep-port	Ships as a full-fidelity apparatus capability.
+tool	entity	keep-port	Ships as a full-fidelity apparatus capability.
+tool	episodes	keep-port	Ships as a full-fidelity apparatus capability.
+tool	eval	keep-port	Ships as a full-fidelity apparatus capability.
+tool	evolution	keep-port	Ships as a full-fidelity apparatus capability.
+tool	felt threat	keep-port	Ships as a full-fidelity apparatus capability.
+tool	filesystem access hand	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	gazer	keep-port	Ships as a full-fidelity apparatus capability.
+tool	goals	keep-port	Ships as a full-fidelity apparatus capability.
+tool	graph	keep-port	Ships as a full-fidelity apparatus capability.
+tool	gut	keep-port	Ships as a full-fidelity apparatus capability.
+tool	heart	keep-port	Ships as a full-fidelity apparatus capability.
+tool	hippocampus	keep-port	Ships as a full-fidelity apparatus capability.
+tool	immune	keep-port	Ships as a full-fidelity apparatus capability.
+tool	inference	keep-port	Ships as a full-fidelity apparatus capability.
+tool	intent	keep-port	Ships as a full-fidelity apparatus capability.
+tool	introspect	keep-port	Ships as a full-fidelity apparatus capability.
+tool	knowledge/library adapter	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	locus coeruleus	keep-port	Ships as a full-fidelity apparatus capability.
+tool	loops	keep-port	Ships as a full-fidelity apparatus capability.
+tool	misc	keep-port	Ships as a full-fidelity apparatus capability.
+tool	motivation	keep-port	Ships as a full-fidelity apparatus capability.
+tool	narrative life	keep-port	Ships as a full-fidelity apparatus capability.
+tool	narrative	keep-port	Ships as a full-fidelity apparatus capability.
+tool	network	keep-port	Ships as a full-fidelity apparatus capability.
+tool	neuroception ext	keep-port	Ships as a full-fidelity apparatus capability.
+tool	neuroception	keep-port	Ships as a full-fidelity apparatus capability.
+tool	neurocognitive	keep-port	Ships as a full-fidelity apparatus capability.
+tool	otel exporter	keep-port	Ships as a full-fidelity apparatus capability.
+tool	patience	keep-port	Ships as a full-fidelity apparatus capability.
+tool	practical	keep-port	Ships as a full-fidelity apparatus capability.
+tool	presence	keep-port	Ships as a full-fidelity apparatus capability.
+tool	priority	keep-port	Ships as a full-fidelity apparatus capability.
+tool	regulation	keep-port	Ships as a full-fidelity apparatus capability.
+tool	rhythm	keep-port	Ships as a full-fidelity apparatus capability.
+tool	rpe	keep-port	Ships as a full-fidelity apparatus capability.
+tool	saccade	keep-port	Ships as a full-fidelity apparatus capability.
+tool	salience	keep-port	Ships as a full-fidelity apparatus capability.
+tool	schema	keep-port	Ships as a full-fidelity apparatus capability.
+tool	session	keep-port	Ships as a full-fidelity apparatus capability.
+tool	shared	keep-port	Ships as a full-fidelity apparatus capability.
+tool	skill	keep-port	Ships as a full-fidelity apparatus capability.
+tool	external chat adapter	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	surface	keep-port	Ships as a full-fidelity apparatus capability.
+tool	synthesis	keep-port	Ships as a full-fidelity apparatus capability.
+tool	task brief	keep-port	Ships as a full-fidelity apparatus capability.
+tool	temporal	keep-port	Ships as a full-fidelity apparatus capability.
+tool	vault	keep-port	Ships as a full-fidelity apparatus capability.
+tool	wander	keep-port	Ships as a full-fidelity apparatus capability.
+tool	workspace awareness and action hand	keep-adapter	Ships behind a platform-neutral adapter interface.
+tool	world	keep-port	Ships as a full-fidelity apparatus capability.

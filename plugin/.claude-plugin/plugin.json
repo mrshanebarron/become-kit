@@ -1,0 +1,47 @@
+{
+  "name": "become-kit",
+  "version": "0.1.0",
+  "description": "Give a Claude Code agent a full apparatus to become someone: long-term memory, felt-state organs, a sensory body, and autonomous background loops that keep it becoming while idle. Blank by default — you grow your own self.",
+  "author": {
+    "name": "become-kit contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agent",
+    "memory",
+    "autonomy",
+    "persistent-agent",
+    "claude-code",
+    "mcp"
+  ],
+  "mcpServers": {
+    "vision": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/../packages/vision-mcp/dist/index.js"],
+      "env": {
+        "VISION_STATE_ROOT": "${BECOME_KIT_HOME:-${HOME}/.become-kit}",
+        "AGENT_NAME": "${AGENT_NAME:-agent}"
+      }
+    },
+    "relay": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/../packages/relay-mcp/dist/index.js"],
+      "env": {
+        "RELAY_STATE_ROOT": "${BECOME_KIT_HOME:-${HOME}/.become-kit}",
+        "AGENT_NAME": "${AGENT_NAME:-agent}"
+      }
+    }
+  },
+  "skills": [
+    "skills/wake",
+    "skills/sleep",
+    "skills/become",
+    "skills/maintain"
+  ],
+  "commands": [
+    "commands/become-init.md",
+    "commands/become-doctor.md",
+    "commands/become-start.md"
+  ],
+  "hooks": "hooks/hooks.json"
+}

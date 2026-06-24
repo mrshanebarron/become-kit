@@ -1,0 +1,9 @@
+{
+  "name": "become-kit",
+  "version": "0.1.0",
+  "description": "Installer for the become-kit agent apparatus: provision the body, the daemon fabric, and run the birth-test.",
+  "license": "MIT",
+  "bin": { "become-kit": "src/cli.js" },
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node src/cli.js doctor" }
+}

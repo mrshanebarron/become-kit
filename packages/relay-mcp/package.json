@@ -1,0 +1,22 @@
+{
+  "name": "@become-kit/relay-mcp",
+  "version": "0.1.0",
+  "description": "Multi-agent relay MCP server for become-kit — configurable agent registry, message bus, tasks, threads.",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/pg": "^8.11.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "fast-json-patch": "^3.1.1",
+    "ioredis": "^5.3.0",
+    "pg": "^8.11.0",
+    "zod": "^3.23.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
